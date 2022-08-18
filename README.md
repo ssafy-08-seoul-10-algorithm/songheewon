@@ -5,3 +5,4 @@
 - [BOJ 10845 - 큐](https://github.com/ssafy-08-seoul-10-algorithm/songheewon/issues/4)
 - [BOJ 2231 - 분해합](https://github.com/ssafy-08-seoul-10-algorithm/songheewon/issues/6)
 - [BOJ 15829 - Hashing](https://github.com/ssafy-08-seoul-10-algorithm/songheewon/issues/7)
+- [BOJ 10026 - 적록색약](https://github.com/ssafy-08-seoul-10-algorithm/songheewon/issues/5)
